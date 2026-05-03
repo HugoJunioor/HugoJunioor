@@ -106,12 +106,22 @@ auth segura e Swagger UI auto-gerado.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoJunioor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=14400" alt="Stats de Hugo"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoJunioor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=14400" alt="Linguagens mais usadas"/>
+  <a href="https://github.com/HugoJunioor">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoJunioor&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
+  </a>
+  <a href="https://github.com/HugoJunioor">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoJunioor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HugoJunioor&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HugoJunioor&theme=tokyonight&hide_border=true" alt="Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoJunioor&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph"/>
 </p>
 
 ---
