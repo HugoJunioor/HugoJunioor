@@ -129,9 +129,9 @@ auth segura e Swagger UI auto-gerado.
 ## 🎯 No momento
 
 - 🔭 Construindo o **FlowDesk** com integração Slack na empresa
-- 🌱 Aprendendo arquitetura distribuída e RAG com LLMs
-- 💼 **Aberto a freela** em React/TypeScript/Node — me chama no LinkedIn
-- 🤝 Sempre disposto a trocar ideia sobre arquitetura, dashboards e automação
+- 🌱 Aprofundando arquitetura distribuída e design patterns aplicados
+- 💼 Sempre aberto a discutir oportunidades em React/TypeScript/Node
+- 🤝 Disposto a trocar ideia sobre arquitetura, dashboards e automação
 
 ---
 
