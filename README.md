@@ -106,12 +106,12 @@ auth segura e Swagger UI auto-gerado.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HugoJunioor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoJunioor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoJunioor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=14400" alt="Stats de Hugo"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoJunioor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=14400" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HugoJunioor&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=HugoJunioor&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 ---
@@ -131,16 +131,11 @@ auth segura e Swagger UI auto-gerado.
   <a href="https://www.linkedin.com/in/hugo-cordeiro-junior">
     <img src="https://img.shields.io/badge/LinkedIn-Hugo_Cordeiro_Junior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hugocordeiro2@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-hugocordeiro2-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:hugocordeiro11@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-hugocordeiro11-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/HugoJunioor">
     <img src="https://img.shields.io/badge/GitHub-HugoJunioor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>"Código que resolve problema real é mais valioso que código bonito que não existe."</i>
-</p>
