@@ -106,12 +106,10 @@ auth segura e Swagger UI auto-gerado.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/HugoJunioor">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoJunioor&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats"/>
-  </a>
-  <a href="https://github.com/HugoJunioor">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoJunioor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/HugoJunioor?label=Seguidores&style=for-the-badge&color=0A66C2&logo=github" alt="Seguidores"/>
+  <img src="https://img.shields.io/github/stars/HugoJunioor?label=Stars&style=for-the-badge&color=FFCA28&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Linguagem_principal-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Repos_p%C3%BAblicos-3+-success?style=for-the-badge&logo=github" alt="Repos"/>
 </p>
 
 <p align="center">
