@@ -15,10 +15,11 @@
 
 ## 💼 About
 
-**Full Stack** developer focused on **React + TypeScript + Node + PostgreSQL**, currently
-building process automation and internal tools at **Just**. I like systems that solve
-real problems — executive dashboards, integrations with APIs (Slack, databases, AI)
-and architecture that scales without rewrites.
+**Full Stack** developer focused on **React + TypeScript + Node + PostgreSQL**.
+At **Just**, I build both **internal automation tools** (executive dashboards,
+Slack/AI integrations, BI reporting) and **payment platforms for our clients**
+— ERP integrations, transaction processing flows and APIs that handle real
+money in production.
 
 I build with **rigor** (passing CI, zero vulnerabilities, versioned schema) and
 **pragmatism** (real deploy, real data, live demo for anyone who wants to see).
@@ -30,26 +31,15 @@ I build with **rigor** (passing CI, zero vulnerabilities, versioned schema) and
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Infra & DevOps
+### DevOps & Tooling
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### Integrations
-![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=flat&logo=slack&logoColor=white)
-![REST](https://img.shields.io/badge/REST-005571?style=flat)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -98,9 +88,10 @@ and AI-driven auto-classification.
 
 ## 🎯 Currently
 
-- 🔭 Building **FlowDesk** with Slack integration in production
+- 🔭 Building **FlowDesk** + payment integration systems in production
+- 💳 Working with **payment processing, ERP integrations and transactional flows**
 - 🌱 Going deeper into distributed architecture and applied design patterns
-- 💼 Always open to discussing opportunities in React/TypeScript/Node
+- 💼 Always open to discussing opportunities in React/TypeScript/Node and fintech
 - 🤝 Happy to chat about architecture, dashboards and automation
 
 ---
