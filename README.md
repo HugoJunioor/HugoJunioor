@@ -26,6 +26,17 @@ I build with **rigor** (passing CI, zero vulnerabilities, versioned schema) and
 
 ---
 
+## 💳 Payments & Fintech
+
+Working day-to-day with the Brazilian payment ecosystem:
+
+- **TEF / Sitef** integrations and transaction conciliation flows
+- **ERP-to-acquirer** bridges, settlement reports and reconciliation tooling
+- Production APIs handling card transactions, refunds and dispute workflows
+- Hardening for sensitive flows: idempotency, audit trails, secure logging
+
+---
+
 ## 🛠 Stack
 
 ### Frontend
