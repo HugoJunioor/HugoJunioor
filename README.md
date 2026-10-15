@@ -81,7 +81,7 @@ and AI-driven auto-classification.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugoJunioor&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity graph"/>
+  <img src="https://ghchart.rshah.org/70a5fd/HugoJunioor" alt="Contribution heatmap"/>
 </p>
 
 ---
