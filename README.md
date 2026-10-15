@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/hugo-cordeiro-junior"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/HugoJunioor"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Campinas--SP-Brazil-success?style=flat" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=HugoJunioor&style=flat&label=visits" alt="Visits"/>
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHugoJunioor&label=Visits&icon=eye-fill&color=%230A66C2&style=flat" alt="Visits"/>
 </p>
 
 <p align="center">
