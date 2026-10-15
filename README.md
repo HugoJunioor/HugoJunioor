@@ -81,7 +81,11 @@ and AI-driven auto-classification.
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/70a5fd/HugoJunioor" alt="Contribution heatmap"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HugoJunioor/HugoJunioor/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HugoJunioor/HugoJunioor/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/HugoJunioor/HugoJunioor/output/github-snake.svg"/>
+  </picture>
 </p>
 
 ---
